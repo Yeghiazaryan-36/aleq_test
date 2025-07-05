@@ -1,2 +1,2 @@
 Hi my name is Aleq.
-This is a github repasitory.
+This is a github repasitory for python.
